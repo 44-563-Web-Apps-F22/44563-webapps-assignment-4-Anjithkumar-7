@@ -1,0 +1,62 @@
+.scene {
+    font-size: large;
+}
+.name{
+    font-family: "Monaco", "Lucida Console", monospace;
+    font-size: large;
+    color: black;
+}
+
+.song {
+    font-family:Verdana, Arial, sans-serif;
+    font-size: medium;
+    color: black;
+    text-indent:20px;
+}
+
+.speech {
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+    font-size: medium;
+    color: black;
+    text-indent:10px;
+}
+
+
+.direction {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: unset;
+    font-size: 15px;
+    color: black;
+    background-color:lightgreen;
+}
+
+.direction:hover {
+    color: lightgray;
+    background-color:lightslategray;
+    padding: 10px;
+}
+
+.SAMUEL{
+    font-family:"Lucida Console", Courier, monospace;
+    color: brown;
+    background-color: lightpink;
+}
+
+.KING{
+    font-family: "Times New Roman", Times, serif;
+    color: salmon;
+    background-color: lightgoldenrodyellow;
+}
+
+.FREDERIC{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: green;
+    background-color: lightgrey;
+}
+
+.ALL{
+    font-family: "Century Gothic",Verdana,sans-serif;
+    color: purple;
+    background-color: lightcyan;
+}
