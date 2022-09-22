@@ -43,6 +43,10 @@
     color: brown;
     background-color: lightpink;
 }
+.SAMUEL:hover {
+    text-shadow:  0px 2px 2px grey;
+    border: 2px double purple;
+}
 
 .KING {
     font-family: "Times New Roman", Times, serif;
@@ -50,10 +54,20 @@
     background-color: lightgoldenrodyellow;
 }
 
+.KING:hover{
+    text-shadow:  0px 2px 2px grey;
+    border: 2px dashed purple;
+}
+
 .FREDERIC {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     color: green;
     background-color: lightgrey;
+}
+
+.FREDERIC:hover {
+    text-shadow: 3px 4px 3px slategray;
+    border: 2px groove purple;
 }
 
 .ALL {
