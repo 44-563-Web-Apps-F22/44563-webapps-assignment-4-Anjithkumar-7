@@ -113,3 +113,16 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
     background-color:lightsalmon ;
 }
+
+.navbar-horizontal {
+    list-style-type: none ;
+    background-color: burlywood;
+    padding: 30px;
+}
+
+li a,i{
+
+    float: left;
+    padding: 8px;
+    
+}
